@@ -1,5 +1,0 @@
-{{#user}}
-Name: Aryan
-Skills: HTML,CSS,JS,React.JS
-Email: aryanpanday300@gmail.com
-{{/user}}
